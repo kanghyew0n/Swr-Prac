@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "assㄴㄴ",
+      "body": "assㄴㄴ",
+      "id": 6
+    },
+    {
+      "title": "assaazzzㄴㄴㄴ",
+      "body": "sssaaazㄴㄴㄴ",
+      "id": 8
+    },
+    {
+      "title": "saawwzz",
+      "body": "saawwz",
+      "id": 9
+    },
+    {
+      "title": "dssㅌㅌ",
+      "body": "dssㅌㅌ",
+      "id": 10
+    },
+    {
+      "title": "aaaadd",
+      "body": "caaadd",
+      "id": 11
+    },
+    {
+      "title": "ddssㅋㅋ",
+      "body": "sㅋㅋ",
+      "id": 13
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "첫번째 투두"
+    }
+  ]
+}
